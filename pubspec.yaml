@@ -36,6 +36,7 @@ dependencies:
   audioplayers: 
   http: 
   equatable: 
+  flutter_bloc: ^8.1.3
   
 dev_dependencies:
   flutter_test:
